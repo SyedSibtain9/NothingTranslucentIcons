@@ -6,12 +6,14 @@ Standard icon packs apply flat, opaque monochrome circles that disconnect from N
 
 
 ✨ Key Features:
+
 🪟 1:1 Nothing OS Frosted Glass Physics: Replicates the physical translucency and micro-frosted surface of Nothing OS widgets. Icons feel like physical glass lenses resting on your wallpaper.
 
 ⚡ 120Hz Live Dynamic Scrolling: Zero static or baked-in wallpaper clouds. As you swipe across home screen pages, your live wallpaper shines dynamically through each icon plate in real-time.
 
 
 🌓 True System Theme Reactive:
+
 Dark Mode: Deep obsidian frosted glass plate (RGB 0, 0, 0 at ~60%–65% radial alpha) with crisp matte-white glyphs.
 
 Light Mode: Frosted misty white-glass plate (RGB 244, 247, 249 at ~54%–61% radial alpha) with dark charcoal glyphs.
@@ -27,6 +29,7 @@ Flips seamlessly when toggling system Dark/Light theme.
 🔋 Zero Battery Drain: Built as pure native Android vector drawables with hardware-accelerated alpha blending. Runs entirely within the launcher framework with no background services or daemons.
 
 🚀 Getting Started:
+
 Method 1: Install Pre-Built APK (Recommended for Community Members)
 
 Head over to the Releases page.
@@ -37,6 +40,7 @@ Open the downloaded file on your Nothing Phone and tap Install.
 
 
 🎨 How to Apply in Nothing Launcher
+
 Long-press any empty space on your Home Screen.
 
 Tap Customisation (or Edit Home Screen).
@@ -51,6 +55,7 @@ Tap Apply and enjoy the live frosted glass look!
 
 
 🛠️ Requesting Missing Icons
+
 Have an app on your device that isn't themed yet?
 1. Open the app
 2. CLick on "Scan Installed Apps & Copy Appfilter XML"
