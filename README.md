@@ -7,38 +7,38 @@ Standard icon packs apply flat, opaque monochrome circles that disconnect from N
 
 ✨ Key Features:
 
-1.🪟 1:1 Nothing OS Frosted Glass Physics: Replicates the physical translucency and micro-frosted surface of Nothing OS widgets. Icons feel like physical glass lenses resting on your wallpaper.
+🪟 1:1 Nothing OS Frosted Glass Physics: Replicates the physical translucency and micro-frosted surface of Nothing OS widgets. Icons feel like physical glass lenses resting on your wallpaper.
 
 ⚡ 120Hz Live Dynamic Scrolling:
 
-1.Zero static or baked-in wallpaper clouds. As you swipe across home screen pages, your live wallpaper shines dynamically through each icon plate in real-time.
+Zero static or baked-in wallpaper clouds. As you swipe across home screen pages, your live wallpaper shines dynamically through each icon plate in real-time.
 
 
 🌓 True System Theme Reactive:
 
-1.Dark Mode: Deep obsidian frosted glass plate (RGB 0, 0, 0 at ~60%–65% radial alpha) with crisp matte-white glyphs.
+Dark Mode: Deep obsidian frosted glass plate (RGB 0, 0, 0 at ~60%–65% radial alpha) with crisp matte-white glyphs.
 
 
-2.Light Mode: Frosted misty white-glass plate (RGB 244, 247, 249 at ~54%–61% radial alpha) with dark charcoal glyphs.
+Light Mode: Frosted misty white-glass plate (RGB 244, 247, 249 at ~54%–61% radial alpha) with dark charcoal glyphs.
 
 
-3.Flips seamlessly when toggling system Dark/Light theme.
+Flips seamlessly when toggling system Dark/Light theme.
 
 📱 Clean, Obsidian App Drawer:
 
-1.When opening the App Drawer, icons gracefully adapt to the dark uniform sheet with zero color cast or visual artifacts.
+When opening the App Drawer, icons gracefully adapt to the dark uniform sheet with zero color cast or visual artifacts.
 
 🎯 100% Pure High-Definition Vectors:
 
-1.Centered at 512×512 resolution with mathematical sub-pixel accuracy (dX, dY ≤ 0.5px). Zero blurry low-res crops, zero awkward nested badge rings.
+Centered at 512×512 resolution with mathematical sub-pixel accuracy (dX, dY ≤ 0.5px). Zero blurry low-res crops, zero awkward nested badge rings.
 
 📦 Comprehensive App Support:
 
-1.700+ component mappings covering Nothing stock apps, Google Workspace, top global apps, and extensive regional essentials (Jio, PhonePe, Swiggy, Zomato, Blinkit, Kotak811, Bajaj Finance, BGMI, and more).
+700+ component mappings covering Nothing stock apps, Google Workspace, top global apps, and extensive regional essentials (Jio, PhonePe, Swiggy, Zomato, Blinkit, Kotak811, Bajaj Finance, BGMI, and more).
 
 🔋 Zero Battery Drain:
 
-1.Built as pure native Android vector drawables with hardware-accelerated alpha blending. Runs entirely within the launcher framework with no background services or daemons.
+Built as pure native Android vector drawables with hardware-accelerated alpha blending. Runs entirely within the launcher framework with no background services or daemons.
 
 🚀 Getting Started:
 
