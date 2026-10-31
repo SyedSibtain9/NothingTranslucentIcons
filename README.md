@@ -42,11 +42,11 @@ Built as pure native Android vector drawables with hardware-accelerated alpha bl
 
 🚀 Getting Started:
 
-Method 1: Install Pre-Built APK (Recommended for Community Members)
+Install APK
 
 Head over to the Releases page.
 
-Download the latest NothingTranslucentIcons-v7.0.apk.
+Download the latest NothingTranslucentIcons.apk
 
 Open the downloaded file on your Nothing Phone and tap Install.
 
