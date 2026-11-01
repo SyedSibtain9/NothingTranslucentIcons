@@ -4,9 +4,7 @@
   <a href="https://github.com/SyedSibtain9/NothingTranslucentIcons/releases/latest/download/Nothing.Translucent.Icons_V0.3.apk">
     <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download Latest APK" />
   </a>
-  <a href="#readme">
-  <img src="https://img.shields.io/github/downloads/SyedSibtain9/NothingTranslucentIcons/total?style=for-the-badge&logo=github&color=blue" alt="Total Downloads" />
-</p>
+ </p>
 <p align="center">
 <img width="150" alt="Light 1"  src="https://github.com/user-attachments/assets/5adc61bb-b343-4295-b050-eb6c4234b68c" />
 <img width="150" alt="Light 2"  src="https://github.com/user-attachments/assets/1d227539-477e-40bd-9734-b630ecb32b48" />
