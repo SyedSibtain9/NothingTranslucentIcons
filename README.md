@@ -1,8 +1,8 @@
 <h1 align="center">Nothing Translucent Icons 🪟✨</h1>
 
 <p align="center">
-  <a href="https://github.com/SyedSibtain9/NothingTranslucentIcons/releases/download/v0.3/Nothing.Translucent.Icons.apk">
-    <img src="https://img.shields.io/badge/Download_LATEST_APK-v0.3-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  <a href="https://github.com/SyedSibtain9/NothingTranslucentIcons/releases/latest/download/Nothing.Translucent.Icons.apk">
+    <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download Latest APK" />
   </a>
 </p>
 <p align="center">
