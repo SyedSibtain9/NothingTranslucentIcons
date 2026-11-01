@@ -1,4 +1,13 @@
 Nothing Translucent Icons 🪟✨
+<p align="center">
+<img width="300" alt="Light 1"  src="https://github.com/user-attachments/assets/5adc61bb-b343-4295-b050-eb6c4234b68c" />
+<img width="300" alt="Light 2"  src="https://github.com/user-attachments/assets/1d227539-477e-40bd-9734-b630ecb32b48" />
+</p>
+
+<p align="center">
+<img width="300"  alt="Dark 1" src="https://github.com/user-attachments/assets/9beba60d-faa1-413f-8b70-ca06dad47895" />
+<img width="300"  alt="Dark 2" src="https://github.com/user-attachments/assets/de825fb2-6403-4d3c-9862-0b5bd2f08300" />
+</p>
 
 The first live-reactive, frosted translucent icon pack crafted natively for Nothing OS and Nothing Launcher (Nothing Phone (1), Phone (2), Phone (2a), Phone (2a) Plus, and CMF Phone 1).
 
