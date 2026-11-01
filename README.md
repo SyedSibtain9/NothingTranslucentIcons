@@ -21,53 +21,47 @@ Standard icon packs apply flat, opaque monochrome circles that disconnect from N
 
 
 ✨ Key Features:
+-----------------
+* 🪟 1:1 Nothing OS Frosted Glass Physics: Replicates the physical translucency and micro-frosted surface of Nothing OS widgets. Icons feel like physical glass lenses resting on your wallpaper.
 
-🪟 1:1 Nothing OS Frosted Glass Physics: Replicates the physical translucency and micro-frosted surface of Nothing OS widgets. Icons feel like physical glass lenses resting on your wallpaper.
-
-⚡ 120Hz Live Dynamic Scrolling:
-
+* ⚡ 120Hz Live Dynamic Scrolling:
 Zero static or baked-in wallpaper clouds. As you swipe across home screen pages, your live wallpaper shines dynamically through each icon plate in real-time.
 
 
-🌓 True System Theme Reactive:
-
+* 🌓 True System Theme Reactive:
 Dark Mode: Deep obsidian frosted glass plate (RGB 0, 0, 0 at ~60%–65% radial alpha) with crisp matte-white glyphs.
-
-
 Light Mode: Frosted misty white-glass plate (RGB 244, 247, 249 at ~54%–61% radial alpha) with dark charcoal glyphs.
-
-
 Flips seamlessly when toggling system Dark/Light theme.
 
-📱 Clean, Obsidian App Drawer:
-
+* 📱 Clean, Obsidian App Drawer:
 When opening the App Drawer, icons gracefully adapt to the dark uniform sheet with zero color cast or visual artifacts.
 
-🎯 100% Pure High-Definition Vectors:
-
+* 🎯 100% Pure High-Definition Vectors:
 Centered at 512×512 resolution with mathematical sub-pixel accuracy (dX, dY ≤ 0.5px). Zero blurry low-res crops, zero awkward nested badge rings.
 
-📦 Comprehensive App Support:
-
+* 📦 Comprehensive App Support:
 700+ component mappings covering Nothing stock apps, Google Workspace, top global apps, and extensive regional essentials (Jio, PhonePe, Swiggy, Zomato, Blinkit, Kotak811, Bajaj Finance, BGMI, and more).
 
-🔋 Zero Battery Drain:
-
+* 🔋 Zero Battery Drain:
 Built as pure native Android vector drawables with hardware-accelerated alpha blending. Runs entirely within the launcher framework with no background services or daemons.
 
 🚀 Getting Started:
+--------------------
+1. To Install APK
+2. Head over to the Releases page or Click "Download Latest Apk" on the very top.
+3. Download the latest NothingTranslucentIcons.apk
+4. Open the downloaded file on your Nothing Phone and tap Install.
 
-Install APK
+It is Recommended to :
+*  Clear data and cache of the old app
+*  Uninstall old app
+*  Install new app
 
-Head over to the Releases page.
-
-Download the latest NothingTranslucentIcons.apk
-
-Open the downloaded file on your Nothing Phone and tap Install.
+(As it is an unfinished early build)
 
 
 🎨 How to Apply in Nothing Launcher:
-
+-------------------------------------
 1.Long-press any empty space on your Home Screen.
 2.Tap Customisation (or Edit Home Screen).
 3.Tap App grid & icons / Icon pack.
@@ -78,10 +72,13 @@ Open the downloaded file on your Nothing Phone and tap Install.
 
 
 🛠️ Requesting Missing Icons:
-Have an app on your device that isn't themed yet?
+-----------------------------
+* Have an app on your device that isn't themed yet?
 1. Open the app
 2. CLick on "Scan Installed Apps & Copy Appfilter XML"
 3. Open Issues and click New Issue
 4. Paste there what the app copied into your clipboard
 
 THIS PROJECT IS NOT AFFILIATED OR ENDORSED BY NOTHING!
+--------------------------------------------------------
+                                                       Made with ❤️ for Nothing Community
