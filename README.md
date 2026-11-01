@@ -1,4 +1,4 @@
-Nothing Translucent Icons 🪟✨
+<p align="center"> Nothing Translucent Icons 🪟✨
 <p align="center">
 <img width="300" alt="Light 1"  src="https://github.com/user-attachments/assets/5adc61bb-b343-4295-b050-eb6c4234b68c" />
 <img width="300" alt="Light 2"  src="https://github.com/user-attachments/assets/1d227539-477e-40bd-9734-b630ecb32b48" />
