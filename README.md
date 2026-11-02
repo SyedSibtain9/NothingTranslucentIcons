@@ -15,7 +15,12 @@
 <img width="150"  alt="Dark 2" src="https://github.com/user-attachments/assets/de825fb2-6403-4d3c-9862-0b5bd2f08300" />
 </p>
 
-The first live-reactive, frosted translucent icon pack crafted natively for Nothing OS and Nothing Launcher (Nothing Phone (1), Phone (2), Phone (2a), Phone (2a) Plus, and CMF Phone 1).
+# 🤯Massive 10,500+ App Coverage (23,600+ Total Mappings)
+* Full Database Integration: Added 10,379 official monochrome brand vector glyphs, taking the pack from 153 to 10,532 unique icons and 23,622 verified ComponentInfo mappings.
+* Near 100% Everyday App Coverage: Themed almost all global and Indian banking apps, UPI/wallets, food delivery, shopping, games, OTT streaming, and utility apps out of the box.
+* Universal OEM System App Support: Added complete system app mappings for Samsung One UI, Xiaomi HyperOS/MIUI, OnePlus OxygenOS, Realme UI, Oppo ColorOS, Vivo/iQOO, Motorola, and Pixel launchers.
+
+The first live-reactive, frosted translucent icon pack crafted natively for Nothing OS and Nothing Launcher (Nothing Phone (1), Phone (2), Phone (2a), Phone (2a) Plus, Phone (3), Phone (3a), Phone (3a) pro and CMF Phones).
 
 Standard icon packs apply flat, opaque monochrome circles that disconnect from Nothing's signature industrial aesthetic. Nothing Translucent Icons reverse-engineers the exact optical depth, radial diffusion, and live transparency of Nothing OS native widgets (Weather, Clock, Quick Settings, Media Player), bringing true frosted glass aesthetics to every app on your home screen.
 
@@ -29,8 +34,8 @@ Zero static or baked-in wallpaper clouds. As you swipe across home screen pages,
 
 
 * 🌓 True System Theme Reactive:
-Dark Mode: Deep obsidian frosted glass plate (RGB 0, 0, 0 at ~60%–65% radial alpha) with crisp matte-white glyphs.
-Light Mode: Frosted misty white-glass plate (RGB 244, 247, 249 at ~54%–61% radial alpha) with dark charcoal glyphs.
+Dark Mode: Deep obsidian frosted glass plate  with crisp matte-white glyphs.
+Light Mode: Frosted misty white-glass plate  with dark charcoal glyphs.
 Flips seamlessly when toggling system Dark/Light theme.
 
 * 📱 Clean, Obsidian App Drawer:
