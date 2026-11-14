@@ -68,11 +68,11 @@ It is Recommended to :
 
 🎨 How to Apply in Nothing Launcher:
 -------------------------------------
-1.Long-press any empty space on your Home Screen.
-2.Tap Customisation (or Edit Home Screen).
-3.Tap App grid & icons / Icon pack.
-4.Choose Nothing Translucent Icons from the list.
-5.Tap Apply and enjoy the live frosted glass look!
+* Long-press any empty space on your Home Screen.
+* Tap Customisation (or Edit Home Screen).
+* Tap App grid & icons / Icon pack.
+* Choose Nothing Translucent Icons from the list.
+* Tap Apply and enjoy the live frosted glass look!
 
 (Compatible with third-party launchers including Nova Launcher, Niagara, Lawnchair, and Smart Launcher).
 
@@ -83,7 +83,7 @@ It is Recommended to :
 1. Open the app
 2. CLick on "Scan Installed Apps & Copy Appfilter XML"
 3. Open Issues and click New Issue
-4. Paste there what the app copied into your clipboard
+4. Paste there in issues what the app as an txt file.
 
 THIS PROJECT IS NOT AFFILIATED OR ENDORSED BY NOTHING!
 --------------------------------------------------------
