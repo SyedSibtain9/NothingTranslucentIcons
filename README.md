@@ -83,7 +83,7 @@ It is Recommended to :
 1. Open the app
 2. CLick on "Scan Installed Apps & Copy Appfilter XML"
 3. Open Issues and click New Issue
-4. Paste there in issues what the app as an txt file.
+4. Paste there in issues what the app has copied as an .txt file.
 
 THIS PROJECT IS NOT AFFILIATED OR ENDORSED BY NOTHING!
 --------------------------------------------------------
